@@ -49,9 +49,9 @@ Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 
 | 📘 Aula | 🖼️ Imagem |
 |---------|------------|
-| Introdução ao Excel | ![Curso Guanabara](./Imagens/curso-guanabara.png) |
+| Introdução ao Excel | ![Curso Guanabara](./Imagens/tela\do\curso.png) |
 | Funções básicas | ![Função SOMA](./Imagens/planilha-exemplo.png) |
-| Anotações no Obsidian | ![Notas do Obsidian](./Imagens/obsidian-anotacoes.png) |
+| Anotações no Obsidian | ![Notas do Obsidian](./Imagens/anotacoes_obsidian.png) |
 
 > 💡 As imagens acima podem ser substituídas por capturas reais após o término do curso.
 > Basta colocar os arquivos `.png` ou `.jpg` na pasta `/Imagens` e atualizar o nome no README.
@@ -87,9 +87,9 @@ As planilhas, prints e anotações finais serão adicionadas conforme o andament
 
 ## ✍️ Autor
 
-**Henrique Melo Rodrigues**
+**Henrique de Melo Rodrigues**
 🎓 Estudante de Logística — *Trabalho de Conclusão de Curso (TCC)*
-📍 *Moça Bonita — Moda Feminina, Cubatão/SP*
+📍 *Logística de Estoque — Moda Feminina, Cubatão/SP, 2025*
 
 ---
 
