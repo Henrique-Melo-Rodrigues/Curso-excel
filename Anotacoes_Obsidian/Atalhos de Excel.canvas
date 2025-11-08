@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"7e7e8570f57dd511","x":-860,"y":-400,"width":1197,"height":500,"type":"group","label":"Atalhos aula 02 do Curso"},
+		{"id":"c07f06c37f60c48c","type":"text","text":"`Ctrl + espaço`","x":-840,"y":-360,"width":161,"height":64,"color":"4"},
+		{"id":"53ef57e567aa2411","type":"text","text":"'`Shift` + `espaço`'","x":-840,"y":-237,"width":181,"height":64,"color":"4"},
+		{"id":"83612f6af6c038b3","type":"text","text":"`Ctrl` + `Shift` + '`+'`'","x":-840,"y":-108,"width":165,"height":64,"color":"4"},
+		{"id":"08e50831d0917cd6","type":"text","text":"`'Ctrl' + 'Shift' + ''-''`","x":-840,"y":15,"width":179,"height":64,"color":"4"},
+		{"id":"585a7670a953eb06","type":"text","text":"**Seleciona coluna**","x":-535,"y":-360,"width":175,"height":65,"color":"2"},
+		{"id":"e5b388b0cf825d9c","type":"text","text":"**Seleciona linha**","x":-535,"y":-237,"width":175,"height":65,"color":"2"},
+		{"id":"f3246001af420a96","type":"text","text":"**Insere linha**","x":-535,"y":-108,"width":175,"height":65,"color":"2"},
+		{"id":"164efacdc30c48fc","type":"text","text":"**Excluí linha**","x":-535,"y":15,"width":175,"height":65,"color":"2"},
+		{"id":"f18c6e880984fe1c","type":"text","text":"`Ctrl + seta`","x":-260,"y":-273,"width":181,"height":60,"color":"4"},
+		{"id":"6231917f1e8870d3","type":"text","text":"**Seleciona célula da extremidade indicada pela seta**","x":45,"y":-273,"width":272,"height":61,"color":"2"},
+		{"id":"8e65aa450661a628","type":"text","text":"`Ctrl + Home`","x":-260,"y":-193,"width":165,"height":60,"color":"4"},
+		{"id":"45e7eb75a783b19e","type":"text","text":"**Seleciona célula inicial (A1)**","x":45,"y":-193,"width":162,"height":61,"color":"2"},
+		{"id":"e6fe4676cfa68270","type":"text","text":"`Ctrl + Shift + seta`","x":-260,"y":-100,"width":179,"height":60,"color":"4"},
+		{"id":"35724b6e7ae45fb5","type":"text","text":"**Seleciona todas as células na direção da seta**","x":45,"y":-100,"width":272,"height":61,"color":"2"},
+		{"id":"5cb91aedc2338047","type":"text","text":"`Ctrl + Shift + 8`","x":-260,"y":0,"width":200,"height":50,"color":"4"},
+		{"id":"5f9a9bff395caa7b","type":"text","text":"**Seleciona subplanilha**","x":45,"y":-5,"width":175,"height":61,"color":"2"},
+		{"id":"3ec14c581eafb8d1","type":"text","text":"`Shift + seta`","x":-258,"y":-368,"width":167,"height":60,"color":"4"},
+		{"id":"4da0e356229de1b2","type":"text","text":"**Seleciona as células na direção da seta**","x":58,"y":-380,"width":156,"height":85,"color":"2"}
+	],
+	"edges":[
+		{"id":"6a800a3cd3fb9b73","fromNode":"c07f06c37f60c48c","fromSide":"right","toNode":"585a7670a953eb06","toSide":"left"},
+		{"id":"8b377eeb7350af95","fromNode":"53ef57e567aa2411","fromSide":"right","toNode":"e5b388b0cf825d9c","toSide":"left"},
+		{"id":"abea68db33dfdc79","fromNode":"83612f6af6c038b3","fromSide":"right","toNode":"f3246001af420a96","toSide":"left"},
+		{"id":"5b8eded0d411c9ef","fromNode":"08e50831d0917cd6","fromSide":"right","toNode":"164efacdc30c48fc","toSide":"left"},
+		{"id":"b8b06d62cc00fbc9","fromNode":"3ec14c581eafb8d1","fromSide":"right","toNode":"4da0e356229de1b2","toSide":"left"},
+		{"id":"512c41b9b3629fe1","fromNode":"f18c6e880984fe1c","fromSide":"right","toNode":"6231917f1e8870d3","toSide":"left"},
+		{"id":"a435faba3762dbef","fromNode":"8e65aa450661a628","fromSide":"right","toNode":"45e7eb75a783b19e","toSide":"left"},
+		{"id":"f70d93c15bee6e52","fromNode":"e6fe4676cfa68270","fromSide":"right","toNode":"35724b6e7ae45fb5","toSide":"left"},
+		{"id":"fa03ca61559f5124","fromNode":"5cb91aedc2338047","fromSide":"right","toNode":"5f9a9bff395caa7b","toSide":"left"}
+	]
+}
