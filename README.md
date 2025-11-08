@@ -49,7 +49,7 @@ Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 
 | 📘 Aula | 🖼️ Imagem |
 |---------|------------|
-| Introdução ao Excel | ![Curso Guanabara](./Imagens/Curso-guabara.png) |
+| Introdução ao Excel | ![Curso Guanabara](./Imagens/Curso-guanabara.png) |
 | Funções básicas | ![Função SOMA](./Imagens/planilha-exemplo.png) |
 | Anotações no Obsidian | ![Notas do Obsidian](./Imagens/anotacoes_obsidian.png) |
 
