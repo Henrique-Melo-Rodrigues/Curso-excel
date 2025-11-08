@@ -1,3 +1,5 @@
+![Banner do Curso de Excel](./Imagens/banner.png)
+
 # 📊 Curso Introdutório de Excel — Projeto Complementar do TCC em Logística
 
 Bem-vindo(a) ao repositório do **Curso Introdutório de Excel**, desenvolvido como parte das **horas complementares** do meu **Trabalho de Conclusão de Curso (TCC)** em **Logística**.
@@ -27,6 +29,7 @@ A importância deste curso está **diretamente ligada aos objetivos do artigo do
 └── ...
 
 
+
 > 🧩 *A pasta `Anotacoes_Obsidian` contém anotações exportadas do Obsidian — com conceitos, exercícios e observações feitos durante o curso.*
 
 ---
@@ -40,39 +43,60 @@ Uma introdução prática e acessível aos principais recursos da ferramenta.
 
 ---
 
-## 📸 Prévia (prints e exemplos)
+## 📸 Galeria de Imagens
 
-> ⚠️ As imagens serão adicionadas após a conclusão do curso.
+Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 
-Para adicionar prints do curso ou das planilhas, use a seguinte sintaxe Markdown:
+| 📘 Aula | 🖼️ Imagem |
+|---------|------------|
+| Introdução ao Excel | ![Curso Guanabara](./Imagens/curso-guanabara.png) |
+| Funções básicas | ![Função SOMA](./Imagens/planilha-exemplo.png) |
+| Anotações no Obsidian | ![Notas do Obsidian](./Imagens/obsidian-anotacoes.png) |
 
-```markdown
-![Descrição da imagem](./Imagens/nome-da-imagem.png)
-
-![Tela inicial do curso de Excel](./Imagens/curso-guanabara.png)
-
-🧾 Como visualizar as anotações do Obsidian
-
-Baixe a pasta Anotacoes_Obsidian/ deste repositório.
-
-Abra o Obsidian → clique em "Open folder as vault".
-
-Selecione a pasta baixada.
-
-✍️ As notas contêm explicações e exercícios sobre funções, gráficos e fórmulas aplicadas à logística.
-
-🧰 Ferramentas e Tecnologias
-Ferramenta	Uso Principal
-💻 Microsoft Excel	Criação de planilhas e exercícios
-🪶 Obsidian	Registro e organização das anotações
-🧩 GitHub	Versionamento e comprovação da realização do curso
-
-⭐ Se gostou da estrutura, deixe uma estrela no repositório!
-
+> 💡 As imagens acima podem ser substituídas por capturas reais após o término do curso.
+> Basta colocar os arquivos `.png` ou `.jpg` na pasta `/Imagens` e atualizar o nome no README.
 
 ---
 
-### ✅ Próximos passos
+## 🧾 Como visualizar as anotações do Obsidian
 
+1. Baixe a pasta `Anotacoes_Obsidian/` deste repositório.
+2. Abra o **Obsidian** → clique em **"Open folder as vault"**.
+3. Selecione a pasta baixada.
 
+> ✍️ *As notas contêm explicações e exercícios sobre funções, gráficos e fórmulas aplicadas à logística.*
 
+---
+
+## 🧰 Ferramentas e Tecnologias
+
+| Ferramenta | Uso Principal |
+|-------------|----------------|
+| 💻 **Microsoft Excel** | Criação de planilhas e exercícios |
+| 🪶 **Obsidian** | Registro e organização das anotações |
+| 🧩 **GitHub** | Versionamento e comprovação da realização do curso |
+
+---
+
+## 📅 Status do Projeto
+
+🚧 **Em desenvolvimento**
+As planilhas, prints e anotações finais serão adicionadas conforme o andamento do curso.
+
+---
+
+## ✍️ Autor
+
+**Henrique Melo Rodrigues**
+🎓 Estudante de Logística — *Trabalho de Conclusão de Curso (TCC)*
+📍 *Moça Bonita — Moda Feminina, Cubatão/SP*
+
+---
+
+## 📜 Licença
+
+Este repositório é de uso **acadêmico e pessoal**, voltado à comprovação de horas complementares e ao desenvolvimento do TCC.
+
+---
+
+⭐ *Se gostou da estrutura, deixe uma estrela no repositório!*
