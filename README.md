@@ -74,8 +74,5 @@ Ferramenta	Uso Principal
 
 ### ✅ Próximos passos
 
-1. Crie o arquivo de novo:
-   ```bash
-   nano README.md
 
 
