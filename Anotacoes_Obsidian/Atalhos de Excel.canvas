@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"7e7e8570f57dd511","x":-860,"y":-400,"width":1197,"height":500,"type":"group","label":"Atalhos aula 02 do Curso"},
+		{"id":"7e7e8570f57dd511","type":"group","x":-860,"y":-400,"width":1197,"height":500,"label":"Atalhos aula 02 do Curso"},
+		{"id":"aff598821a053649","x":-862,"y":160,"width":689,"height":501,"type":"group","label":"Aula 07"},
 		{"id":"c07f06c37f60c48c","type":"text","text":"`Ctrl + espaço`","x":-840,"y":-360,"width":161,"height":64,"color":"4"},
 		{"id":"53ef57e567aa2411","type":"text","text":"'`Shift` + `espaço`'","x":-840,"y":-237,"width":181,"height":64,"color":"4"},
 		{"id":"83612f6af6c038b3","type":"text","text":"`Ctrl` + `Shift` + '`+'`'","x":-840,"y":-108,"width":165,"height":64,"color":"4"},
@@ -9,16 +10,26 @@
 		{"id":"e5b388b0cf825d9c","type":"text","text":"**Seleciona linha**","x":-535,"y":-237,"width":175,"height":65,"color":"2"},
 		{"id":"f3246001af420a96","type":"text","text":"**Insere linha**","x":-535,"y":-108,"width":175,"height":65,"color":"2"},
 		{"id":"164efacdc30c48fc","type":"text","text":"**Excluí linha**","x":-535,"y":15,"width":175,"height":65,"color":"2"},
+		{"id":"5cb91aedc2338047","type":"text","text":"`Ctrl + Shift + 8`","x":-260,"y":0,"width":200,"height":50,"color":"4"},
 		{"id":"f18c6e880984fe1c","type":"text","text":"`Ctrl + seta`","x":-260,"y":-273,"width":181,"height":60,"color":"4"},
 		{"id":"6231917f1e8870d3","type":"text","text":"**Seleciona célula da extremidade indicada pela seta**","x":45,"y":-273,"width":272,"height":61,"color":"2"},
 		{"id":"8e65aa450661a628","type":"text","text":"`Ctrl + Home`","x":-260,"y":-193,"width":165,"height":60,"color":"4"},
 		{"id":"45e7eb75a783b19e","type":"text","text":"**Seleciona célula inicial (A1)**","x":45,"y":-193,"width":162,"height":61,"color":"2"},
 		{"id":"e6fe4676cfa68270","type":"text","text":"`Ctrl + Shift + seta`","x":-260,"y":-100,"width":179,"height":60,"color":"4"},
 		{"id":"35724b6e7ae45fb5","type":"text","text":"**Seleciona todas as células na direção da seta**","x":45,"y":-100,"width":272,"height":61,"color":"2"},
-		{"id":"5cb91aedc2338047","type":"text","text":"`Ctrl + Shift + 8`","x":-260,"y":0,"width":200,"height":50,"color":"4"},
 		{"id":"5f9a9bff395caa7b","type":"text","text":"**Seleciona subplanilha**","x":45,"y":-5,"width":175,"height":61,"color":"2"},
 		{"id":"3ec14c581eafb8d1","type":"text","text":"`Shift + seta`","x":-258,"y":-368,"width":167,"height":60,"color":"4"},
-		{"id":"4da0e356229de1b2","type":"text","text":"**Seleciona as células na direção da seta**","x":58,"y":-380,"width":156,"height":85,"color":"2"}
+		{"id":"4da0e356229de1b2","type":"text","text":"**Seleciona as células na direção da seta**","x":58,"y":-380,"width":156,"height":85,"color":"2"},
+		{"id":"6dea63f56161f4cf","x":-840,"y":180,"width":250,"height":60,"color":"#d62929","type":"text","text":"Crtl + Shift + 1"},
+		{"id":"ae3900526793742b","x":-445,"y":181,"width":250,"height":60,"color":"#2934d6","type":"text","text":"Formata info para número"},
+		{"id":"387f8f665f607892","type":"text","text":"Crtl + Shift + 2","x":-842,"y":300,"width":250,"height":60,"color":"#d62929"},
+		{"id":"52b722463e75faf5","type":"text","text":"Formata info para hora","x":-447,"y":301,"width":250,"height":60,"color":"#2934d6"},
+		{"id":"d158bdc09255d022","type":"text","text":"Crtl + Shift + 3","x":-838,"y":400,"width":250,"height":60,"color":"#d62929"},
+		{"id":"993d64ebbf15c6bd","type":"text","text":"Formata info para Data","x":-443,"y":401,"width":250,"height":60,"color":"#2934d6"},
+		{"id":"3c1c8924ce364e6a","type":"text","text":"Crtl + Shift + 4","x":-842,"y":491,"width":250,"height":60,"color":"#d62929"},
+		{"id":"a7d6b5adddbde4a1","type":"text","text":"Formata info para cédula","x":-443,"y":491,"width":250,"height":60,"color":"#2934d6"},
+		{"id":"7087de31783e7ee1","type":"text","text":"Formata info para porcentagem","x":-447,"y":581,"width":250,"height":60,"color":"#2934d6"},
+		{"id":"6ed53a8a55e0daa5","type":"text","text":"Crtl + Shift + 5","x":-842,"y":580,"width":250,"height":60,"color":"#d62929"}
 	],
 	"edges":[
 		{"id":"6a800a3cd3fb9b73","fromNode":"c07f06c37f60c48c","fromSide":"right","toNode":"585a7670a953eb06","toSide":"left"},
@@ -29,6 +40,11 @@
 		{"id":"512c41b9b3629fe1","fromNode":"f18c6e880984fe1c","fromSide":"right","toNode":"6231917f1e8870d3","toSide":"left"},
 		{"id":"a435faba3762dbef","fromNode":"8e65aa450661a628","fromSide":"right","toNode":"45e7eb75a783b19e","toSide":"left"},
 		{"id":"f70d93c15bee6e52","fromNode":"e6fe4676cfa68270","fromSide":"right","toNode":"35724b6e7ae45fb5","toSide":"left"},
-		{"id":"fa03ca61559f5124","fromNode":"5cb91aedc2338047","fromSide":"right","toNode":"5f9a9bff395caa7b","toSide":"left"}
+		{"id":"fa03ca61559f5124","fromNode":"5cb91aedc2338047","fromSide":"right","toNode":"5f9a9bff395caa7b","toSide":"left"},
+		{"id":"0374bee4a7ec4dcb","fromNode":"6dea63f56161f4cf","fromSide":"right","toNode":"ae3900526793742b","toSide":"left"},
+		{"id":"f3767b0a0efe3d48","fromNode":"387f8f665f607892","fromSide":"right","toNode":"52b722463e75faf5","toSide":"left"},
+		{"id":"dd5cb5226facb6c7","fromNode":"d158bdc09255d022","fromSide":"right","toNode":"993d64ebbf15c6bd","toSide":"left"},
+		{"id":"c48486749de7f4f6","fromNode":"3c1c8924ce364e6a","fromSide":"right","toNode":"a7d6b5adddbde4a1","toSide":"left"},
+		{"id":"e776ca3e348706a5","fromNode":"6ed53a8a55e0daa5","fromSide":"right","toNode":"7087de31783e7ee1","toSide":"left"}
 	]
 }
