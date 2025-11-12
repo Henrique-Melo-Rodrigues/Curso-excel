@@ -49,9 +49,9 @@ Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 
 | 📘 Aula | 🖼️ Imagem |
 |---------|------------|
-| Introdução ao Excel | ![Curso Guanabara](./Imagens/Curso-guanabara.png) |
+| Introdução ao Excel | ![Curso Guanabara](./Imagens/tela_do_curso.png) |
 | Funções básicas | ![Funções básicas](./Imagens/funções_excel.png) |
-| Anotações no Obsidian | ![Notas do Obsidian](./Imagens/anotacoes_obsidian.png) |
+| Anotações no Obsidian | ![Notas do Obsidian](./Imagens/anotações-obsidian.png) |
 
 ---
 
@@ -60,16 +60,13 @@ Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 1. Baixe a pasta `Anotacoes_Obsidian/` deste repositório.
 2. Abra o **Obsidian** → clique em **"Open folder as vault"**.
 3. Selecione a pasta baixada.
-
-> ✍️ *As notas contêm explicações e exercícios sobre funções, gráficos e fórmulas aplicadas à logística.*
-
 ---
 
 ## 🧰 Ferramentas e Tecnologias
 
 | Ferramenta | Uso Principal |
 |-------------|----------------|
-| 💻 **Microsoft Excel** | Criação de planilhas e exercícios |
+| 💻 **Microsoft Excel & Onlyoffice** | Criação de planilhas e exercícios |
 | 🪶 **Obsidian** | Registro e organização das anotações |
 | 🧩 **GitHub** | Versionamento e comprovação da realização do curso |
 
@@ -77,8 +74,7 @@ Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 
 ## 📅 Status do Projeto
 
-🚧 **Em desenvolvimento**
-As planilhas, prints e anotações finais serão adicionadas conforme o andamento do curso.
+✅   **Finalizado**
 
 ---
 
