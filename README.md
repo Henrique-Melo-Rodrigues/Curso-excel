@@ -50,11 +50,8 @@ Aqui estão alguns registros do andamento do curso e das planilhas criadas:
 | 📘 Aula | 🖼️ Imagem |
 |---------|------------|
 | Introdução ao Excel | ![Curso Guanabara](./Imagens/Curso-guanabara.png) |
-| Funções básicas | ![Função SOMA](./Imagens/planilha-exemplo.png) |
+| Funções básicas | ![Funções básicas](./Imagens/funções_excel.png) |
 | Anotações no Obsidian | ![Notas do Obsidian](./Imagens/anotacoes_obsidian.png) |
-
-> 💡 As imagens acima podem ser substituídas por capturas reais após o término do curso.
-> Basta colocar os arquivos `.png` ou `.jpg` na pasta `/Imagens` e atualizar o nome no README.
 
 ---
 
